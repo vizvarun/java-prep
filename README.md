@@ -6,7 +6,7 @@ This repository is dedicated to learning Java and Data Structures & Algorithms (
 
 ## Learning Path
 
-We are following a structured learning path outlined in the Notion sheet available [here](https://www.notion.so/vizvarun/JAVA-PREP-FROM-SCRATCH-TO-LEETCODE-MED-1ab2350141ee809b80e6e2598ba473f5?pvs=4). This resource provides a comprehensive guide to mastering Java and DSA concepts.
+We are following a structured learning path outlined in the Notion sheet available [here](https://vizvarun.notion.site/JAVA-PREP-FROM-SCRATCH-TO-LEETCODE-MEDIUM-1ab2350141ee809b80e6e2598ba473f5?pvs=4). This resource provides a comprehensive guide to mastering Java and DSA concepts.
 
 ## Folder Structure
 
